@@ -27,4 +27,5 @@ type Article struct {
 	URL         string `json:"url"`
 	URLToImage  string `json:"urlToImage"`
 	PublishedAt string `json:"publishedAt"`
+	Content     string `json:"content"`
 }
