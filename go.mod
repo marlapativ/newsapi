@@ -1,4 +1,4 @@
-module github.com/robtec/newsapi
+module github.com/marlapativ/newsapi
 
 require (
 	github.com/dustin/go-humanize v0.0.0-20180421182945-02af3965c54e
