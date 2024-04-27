@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"os"
 
+	"github.com/marlapativ/newsapi/api"
 	"github.com/olekukonko/tablewriter"
-	"github.com/robtec/newsapi/api"
 	"github.com/urfave/cli"
 )
 
